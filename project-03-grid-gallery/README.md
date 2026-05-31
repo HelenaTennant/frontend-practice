@@ -1,27 +1,27 @@
 # Grid Practice Gallery
 
-Учебный проект для практики CSS Grid, адаптивной сетки, карточек и работы с изображениями.
+A practice project for CSS Grid, responsive layouts, cards, and image grids.
 
-## Что отрабатывалось
+## Practice Focus
 
-- HTML-разметка страницы
-- CSS-переменные
+- HTML page structure
+- CSS variables
 - CSS Grid
 - `repeat()`, `auto-fit`, `minmax()`
-- адаптивность через media queries
-- карточки с иконками
-- сетка случайных изображений через Picsum
+- responsive layout with media queries
+- cards with icons
+- random image grid with Picsum
 
-## Технологии
+## Technologies
 
 - HTML
 - CSS
 - CSS Grid
 
-## Как открыть
+## How To Open
 
-Откройте файл `index.html` в браузере или запустите проект через Live Server в VS Code.
+Open `index.html` in a browser or run the project with Live Server in VS Code.
 
-## Статус
+## Status
 
-Учебный проект. Сделан для закрепления CSS Grid и подготовки к публикации в портфолио.
+Learning project. Built to practice CSS Grid and prepare a small project for a portfolio.

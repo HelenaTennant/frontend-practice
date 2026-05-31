@@ -1,18 +1,18 @@
 # Frontend Practice
 
-Коллекция учебных проектов по HTML, CSS и базовой веб-разработке.
+A collection of small HTML and CSS practice projects.
 
-Здесь собраны небольшие проекты, которые показывают постепенное движение: верстка страниц, работа с изображениями, CSS Grid, адаптивность и интерактивные элементы.
+This repository shows my learning progress in frontend development: page layout, images, CSS Grid, responsive design, and simple interactive elements.
 
-## Проекты
+## Projects
 
-| Проект | Что отрабатывается |
+| Project | Practice focus |
 | --- | --- |
-| `project-01-no-code-landing` | большая HTML/CSS-страница, секции, изображения, шрифты, базовая структура лендинга |
-| `project-02-image-slider` | слайдер изображений и работа с внешними картинками |
-| `project-03-grid-gallery` | CSS Grid, `auto-fit`, `minmax()`, карточки, адаптивная сетка и случайные фото |
+| `project-01-no-code-landing` | a larger HTML/CSS landing page with sections, images, fonts, and page structure |
+| `project-02-image-slider` | an image slider and external image sources |
+| `project-03-grid-gallery` | CSS Grid, `auto-fit`, `minmax()`, cards, responsive layout, and random images |
 
-## Технологии
+## Technologies
 
 - HTML
 - CSS
@@ -20,6 +20,6 @@
 - Flexbox
 - Media queries
 
-## Статус
+## Status
 
-Учебные проекты. Репозиторий используется как дневник практики и прогресса во фронтенд-разработке.
+Learning projects. This repository is used as a practice log and a visible record of frontend progress.
