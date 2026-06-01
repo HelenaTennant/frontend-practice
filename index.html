@@ -90,6 +90,16 @@
         color: var(--muted);
         line-height: 1.5;
       }
+
+      @media (max-width: 560px) {
+        main {
+          padding: 32px 0;
+        }
+
+        .project {
+          min-height: auto;
+        }
+      }
     </style>
   </head>
   <body>
@@ -100,7 +110,7 @@
         grids, and images.
       </p>
 
-      <section class="projects" aria-label="Список проектов">
+      <section class="projects" aria-label="Project list">
         <a class="project" href="project-01-no-code-landing/">
           <span>Project 01</span>
           <h2>No-Code Landing</h2>
@@ -117,6 +127,14 @@
           <span>Project 03</span>
           <h2>Grid Gallery</h2>
           <p>CSS Grid, responsive cards, and random images.</p>
+        </a>
+
+        <a class="project" href="project-04-css-accordion/">
+          <span>Project 04</span>
+          <h2>CSS Accordion</h2>
+          <p>
+            Semantic accordion practice with details, summary, and CSS states.
+          </p>
         </a>
       </section>
     </main>

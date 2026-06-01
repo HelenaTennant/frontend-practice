@@ -11,6 +11,7 @@ This repository shows my learning progress in frontend development: page layout,
 | `project-01-no-code-landing` | a larger HTML/CSS landing page with sections, images, fonts, and page structure |
 | `project-02-image-slider` | an image slider and external image sources |
 | `project-03-grid-gallery` | CSS Grid, `auto-fit`, `minmax()`, cards, responsive layout, and random images |
+| `project-04-css-accordion` | semantic accordion with `details`, `summary`, pseudo-elements, and open-state styling |
 
 ## Technologies
 
@@ -19,6 +20,7 @@ This repository shows my learning progress in frontend development: page layout,
 - CSS Grid
 - Flexbox
 - Media queries
+- Semantic HTML
 
 ## Status
 

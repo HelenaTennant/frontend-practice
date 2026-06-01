@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Accordion</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="intro" aria-labelledby="page-title">
+        <p class="eyebrow">Project 04</p>
+        <h1 id="page-title">CSS Accordion</h1>
+        <p>
+          A responsive FAQ-style accordion built with semantic HTML,
+          <code>details</code>, <code>summary</code>, and state-based CSS.
+        </p>
+      </section>
+
+      <section class="accordion" aria-label="Frontend learning FAQ">
+        <details open>
+          <summary>Why use details and summary?</summary>
+          <p>
+            They create an accessible accordion without JavaScript. The browser
+            already understands how to open and close each item.
+          </p>
+        </details>
+
+        <details>
+          <summary>What does the open selector do?</summary>
+          <p>
+            The selector <code>details[open]</code> lets the CSS style only the
+            expanded item, including its title, icon, and content.
+          </p>
+        </details>
+
+        <details>
+          <summary>How is the plus and minus icon made?</summary>
+          <p>
+            A pseudo-element on <code>summary</code> shows a plus sign by
+            default and changes to a minus sign when the item is open.
+          </p>
+        </details>
+
+        <details>
+          <summary>What makes it responsive?</summary>
+          <p>
+            The layout uses flexible width, readable spacing, and a small media
+            query so the accordion stays comfortable on narrow screens.
+          </p>
+        </details>
+
+        <details>
+          <summary>What did this project practice?</summary>
+          <p>
+            Semantic HTML, CSS variables, pseudo-elements, attribute selectors,
+            hover states, open states, and responsive spacing.
+          </p>
+        </details>
+      </section>
+    </main>
+  </body>
+</html>
