@@ -12,6 +12,7 @@ This repository shows my learning progress in frontend development: page layout,
 | `project-02-image-slider` | an image slider and external image sources |
 | `project-03-grid-gallery` | CSS Grid, `auto-fit`, `minmax()`, cards, responsive layout, and random images |
 | `project-04-css-accordion` | semantic accordion with `details`, `summary`, pseudo-elements, and open-state styling |
+| `project-05-css-button-hover-effects` | CSS button hover effects with pseudo-elements, transitions, transforms, and focus-visible states |
 
 ## Technologies
 
